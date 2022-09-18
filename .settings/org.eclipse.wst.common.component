@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-        
-    <wb-module deploy-name="SiteSeoyool">
-                
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-                
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-                
-        <property name="java-output-path" value="/SiteSeoyool/build/classes"/>
-        <property name="context-root" value="SiteSeoyool"/>
             
-    </wb-module>
     
+    <wb-module deploy-name="SiteJeju">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                        
+        
+        <property name="java-output-path" value="/SiteJeju/build/classes"/>
+        <property name="context-root" value="SiteJeju"/>
+                    
+    
+    </wb-module>
+        
+
 </project-modules>
